@@ -1,5 +1,6 @@
 <template>
-  <h1>hello vue</h1>
+  <h1>WebFormDataBinding</h1>
+  <SignupForm />
 </template>
 
 <script>
